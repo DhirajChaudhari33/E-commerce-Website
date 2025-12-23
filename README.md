@@ -40,7 +40,7 @@ Netlify – Hosting and deployment
 
 ## 📸 Screenshots
 
-(You can add screenshots here to make your README more attractive)
+![Screenshot description](public/Ecom store.png)
 
 ## 🤝 Contributing
 
