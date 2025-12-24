@@ -75,7 +75,7 @@ To contribute:
      
      5.Push to your branch (git push origin feature/YourFeature)
 
-6.Open a Pull Request
+     6.Open a Pull Request
 
 ## 📄 License
 
