@@ -1,10 +1,10 @@
 # E-commerce Website
 
-A modern, responsive e-commerce web application built with **HTML**, **CSS**, and **JavaScript**, and deployed on **Netlify**. This project simulates a real online shopping experience and is ideal for portfolio showcases, beginner practice, or as a starter template for your own web store. :contentReference[oaicite:0]{index=0}
+A modern, responsive e-commerce web application built with **HTML**, **CSS**, and **JavaScript**, and deployed on **Netlify**. This project simulates a real online shopping experience and is ideal for portfolio showcases, beginner practice, or as a starter template for your own web store. 
 
 ## 🌐 Live Demo
 
-👉 https://js-ecom-website.netlify.app/ :contentReference[oaicite:1]{index=1}
+👉 https://js-ecom-website.netlify.app/ 
 
 ## 🛍️ Project Overview
 
@@ -14,7 +14,7 @@ This e-commerce website allows users to:
 - Add items to the shopping cart  
 - View cart item count and cart summary  
 - Interact with promotional banners and featured sections  
-- Enjoy a fully responsive UI for both desktop and mobile layouts :contentReference[oaicite:2]{index=2}
+- Enjoy a fully responsive UI for both desktop and mobile layouts 
 
 ## ✨ Features
 
@@ -23,14 +23,14 @@ This e-commerce website allows users to:
 ✔️ Cart preview and interaction  
 ✔️ Promotional and featured product sections  
 ✔️ Clean and user-friendly UI  
-✔️ Hosted on Netlify :contentReference[oaicite:3]{index=3}
+✔️ Hosted on Netlify
 
 ## 🧰 Built With
 
 - **HTML5** – Structure and content  
 - **CSS3** – Responsive layout and styling  
 - **JavaScript (ES6)** – Interactive behavior  
-- **Netlify** – Deployment :contentReference[oaicite:4]{index=4}
+- **Netlify** – Deployment 
 
 ## 📁 Project Structure
      📦E-commerce-Website
