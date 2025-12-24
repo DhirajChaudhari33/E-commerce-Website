@@ -54,7 +54,7 @@ To run this project locally:
 2.Go to project directory
   
     cd E-commerce-Website
-3.Open index.html in your browser    
+     3.Open index.html in your browser    
 
 ## 📸 Screenshots
 
