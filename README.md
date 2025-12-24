@@ -65,15 +65,15 @@ To run this project locally:
 Contributions are welcome!
 To contribute:
 
-1.Fork the repository
-
-2.Create a new branch (git checkout -b feature/YourFeature)
-
-3.Make your changes
-
-4.Commit your changes (git commit -m "Add new feature")
-
-5.Push to your branch (git push origin feature/YourFeature)
+     1.Fork the repository
+     
+     2.Create a new branch (git checkout -b feature/YourFeature)
+     
+     3.Make your changes
+     
+     4.Commit your changes (git commit -m "Add new feature")
+     
+     5.Push to your branch (git push origin feature/YourFeature)
 
 6.Open a Pull Request
 
